@@ -7,8 +7,8 @@ import org.springframework.context.annotation.Configuration;
 
 public class AppConfig {
 
-    @Bean
-    Apple getApple(){
-        return new Apple();
-    }
+//    @Bean
+//    Apple getApple(){
+//        return new Apple();
+//    }
 }
